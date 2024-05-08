@@ -14,5 +14,9 @@ Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
+## Diagrama
+
+![Diagrama de Classe Iphone](./assets/class-diagram-iphone.png)
+
 ## Referência
 https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo
